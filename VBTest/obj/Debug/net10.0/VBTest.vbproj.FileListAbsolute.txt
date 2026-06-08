@@ -1,0 +1,15 @@
+D:\Projects\Project 2 - Vision Monitor for Fault Detection\Vision Monitor Dashboard Design\VBTest\bin\Debug\net10.0\VBTest.exe
+D:\Projects\Project 2 - Vision Monitor for Fault Detection\Vision Monitor Dashboard Design\VBTest\bin\Debug\net10.0\VBTest.deps.json
+D:\Projects\Project 2 - Vision Monitor for Fault Detection\Vision Monitor Dashboard Design\VBTest\bin\Debug\net10.0\VBTest.runtimeconfig.json
+D:\Projects\Project 2 - Vision Monitor for Fault Detection\Vision Monitor Dashboard Design\VBTest\bin\Debug\net10.0\VBTest.dll
+D:\Projects\Project 2 - Vision Monitor for Fault Detection\Vision Monitor Dashboard Design\VBTest\bin\Debug\net10.0\VBTest.pdb
+D:\Projects\Project 2 - Vision Monitor for Fault Detection\Vision Monitor Dashboard Design\VBTest\obj\Debug\net10.0\VBTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Project 2 - Vision Monitor for Fault Detection\Vision Monitor Dashboard Design\VBTest\obj\Debug\net10.0\VBTest.AssemblyInfoInputs.cache
+D:\Projects\Project 2 - Vision Monitor for Fault Detection\Vision Monitor Dashboard Design\VBTest\obj\Debug\net10.0\VBTest.AssemblyInfo.vb
+D:\Projects\Project 2 - Vision Monitor for Fault Detection\Vision Monitor Dashboard Design\VBTest\obj\Debug\net10.0\VBTest.vbproj.CoreCompileInputs.cache
+D:\Projects\Project 2 - Vision Monitor for Fault Detection\Vision Monitor Dashboard Design\VBTest\obj\Debug\net10.0\VBTest.sourcelink.json
+D:\Projects\Project 2 - Vision Monitor for Fault Detection\Vision Monitor Dashboard Design\VBTest\obj\Debug\net10.0\VBTest.dll
+D:\Projects\Project 2 - Vision Monitor for Fault Detection\Vision Monitor Dashboard Design\VBTest\obj\Debug\net10.0\refint\VBTest.dll
+D:\Projects\Project 2 - Vision Monitor for Fault Detection\Vision Monitor Dashboard Design\VBTest\obj\Debug\net10.0\VBTest.pdb
+D:\Projects\Project 2 - Vision Monitor for Fault Detection\Vision Monitor Dashboard Design\VBTest\obj\Debug\net10.0\VBTest.genruntimeconfig.cache
+D:\Projects\Project 2 - Vision Monitor for Fault Detection\Vision Monitor Dashboard Design\VBTest\obj\Debug\net10.0\ref\VBTest.dll
