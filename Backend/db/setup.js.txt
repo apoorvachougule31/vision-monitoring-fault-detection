@@ -1,0 +1,27 @@
+const sqlite3 = require('sqlite3').verbose();
+const db = new sqlite3.Database('./db/vision_monitor.db');
+
+db.serialize(() => {
+  db.run(`CREATE TABLE IF NOT EXISTS errors (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    machine_name TEXT,
+    error_code TEXT,
+    severity TEXT,
+    camera_id TEXT,
+    timestamp DATETIME DEFAULT CURRENT_TIMESTAMP,
+    clip_path TEXT,
+    reviewed INTEGER DEFAULT 0
+  )`);
+
+  db.run(`CREATE TABLE IF NOT EXISTS machines (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    name TEXT UNIQUE,
+    plc_ip TEXT,
+    plc_port INTEGER,
+    camera_id TEXT,
+    rtsp_url TEXT,
+    status TEXT DEFAULT 'ok'
+  )`);
+});
+
+module.exports = db;
